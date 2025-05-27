@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:13:19.701Z",
+  "generated_at": "2026-10-06T14:13:22.265Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -117,6 +117,32 @@
       "last_pushed_at": "2025-05-25T09:38:48.411Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2025-05-27T07:11:56.904Z",
+      "last_pushed_at": "2025-05-27T07:11:56.904Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2025-05-27T08:45:03.240Z",
+      "last_pushed_at": "2025-05-27T08:45:03.240Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
