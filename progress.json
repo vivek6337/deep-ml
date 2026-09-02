@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:13:22.265Z",
+  "generated_at": "2026-10-06T14:13:24.484Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -143,6 +143,32 @@
       "last_pushed_at": "2025-05-27T08:45:03.240Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-09-02T19:08:57.319Z",
+      "last_pushed_at": "2026-09-02T19:08:57.319Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-09-02T19:47:47.661Z",
+      "last_pushed_at": "2026-09-02T19:47:47.661Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
