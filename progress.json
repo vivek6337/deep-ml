@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:13:24.484Z",
+  "generated_at": "2026-10-06T14:13:26.486Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -169,6 +169,58 @@
       "last_pushed_at": "2026-09-02T19:47:47.661Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-09-03T10:20:40.708Z",
+      "last_pushed_at": "2026-09-03T10:20:40.708Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2026-09-03T12:20:03.625Z",
+      "last_pushed_at": "2026-09-03T12:20:03.625Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-09-03T14:15:42.378Z",
+      "last_pushed_at": "2026-09-03T14:15:42.378Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-09-03T14:43:48.326Z",
+      "last_pushed_at": "2026-09-03T14:43:48.326Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
