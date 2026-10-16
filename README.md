@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-03 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-05-25 | [solution](problems/0017-k-means-clustering) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-05-27 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-10-16 | [solution](problems/0807-random-forest-fit-from-scratch) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-05-25 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-05-25 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-16 | [solution](problems/0020-decision-tree-learning) |
